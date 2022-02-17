@@ -109,3 +109,5 @@ if (playAgainConfirm) {
 
 // start the game when the page reloads
 startGame();
+
+// test comment for merge issue 
